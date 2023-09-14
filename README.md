@@ -28,7 +28,6 @@
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: I’m working as a Software Engineer and contributing to frontend building of web applications.
 
-- :seedling: Exploring Marketing, e-Commerce.
 
 - :zap: In my free time, I read tech articles.
 
