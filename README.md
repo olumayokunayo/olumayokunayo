@@ -33,7 +33,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olumayokun-ogunfowora-708544262/)
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)] (olumayokunayo@gmail.com)
-
+  Link to portfolio: https://dejiportfolio.netlify.app/
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
